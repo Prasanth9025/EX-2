@@ -53,7 +53,8 @@ while True:
 ![image](https://github.com/Prasanth9025/EX-2/assets/118343686/302fc7d7-dd12-4094-a4c4-7a36cae72337)
 
 # CLIENT OUTPUT :
-![Uploading image.png…]()
+![image](https://github.com/Prasanth9025/EX-2/assets/118343686/4a0194aa-2da6-4b2c-bcf2-11d07e98f5f2)
+
 
 
 
